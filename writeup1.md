@@ -1,12 +1,12 @@
 # Write Up 1
 
-## Init
+## INIT
 Installation of a Parrot Security ISO
 >[Parrot](https://www.parrotsec.org/download/_)
 
 We have to use some tools during the process so we use a VM with already some tools installed.
 
-## Enumerate
+## ENUMERATE
 To start, we need to list all the services which run on the machine.
 
 First, use `nmap` to list active ports and the correspondants services.
