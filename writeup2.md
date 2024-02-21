@@ -11,7 +11,7 @@ We use this script:
 And here the output:
 
 ```
-firefart@BornToSecHackMe:/var/crash# ./DirtyScan.sh 
+zaz@BornToSecHackMe:/var/crash# ./DirtyScan.sh 
 Your kernel is 3.2.0-91-generic-pae which IS vulnerable.
 It is recommends that you update your kernel. Alternatively, you can apply partial
 mitigation described at https://access.redhat.com/security/vulnerabilities/2706661 .
